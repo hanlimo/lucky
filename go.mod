@@ -1,4 +1,4 @@
-module github.com/Qihoo360/wayne
+module github.com/hanlimo/lucky
 
 go 1.12
 
